@@ -1,0 +1,50 @@
+ /*p{
+            color:green;
+            font-display: block;
+            font-family: cursive;
+            font-weight:bold;
+        }*/
+body{
+    background:white;
+    font-family: Arial;
+}
+form{
+    border: 3px solid black;
+}
+button{
+    background-color: #4CAf50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width:100%;
+}
+button:hover{
+    opacity: 0.8;
+}
+.cancelbtn{
+    width:auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+        
+}
+
+span.psw{
+    float: right;
+    padding-top: 16px;
+}
+p,h1,h2,h4{
+    color: blue;
+    font-display: block;
+    font-family: monospace;
+    font-weight: bolder;
+}
+h1{
+    color:black;
+}
+div p{
+    color:black;
+}
+div h1{
+    font-family:serif;
